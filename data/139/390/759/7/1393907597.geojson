@@ -36,17 +36,17 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
       1159157317, 
-      102191575, 
+      1159157271, 
       102087579, 
       85922583, 
-      1159157271, 
+      85688637, 
       85633793, 
+      102191575, 
       1159157661, 
       1159157323, 
-      1393907597
+      1393907597, 
+      102527513
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -74,7 +74,7 @@
     ],
     "wof:id": 1393907597,
     "wof:involves": [102533269, 102527513, 1159284261, 1159157661, 1159292193],
-    "wof:lastmodified": 1560960596,
+    "wof:lastmodified": 1560984810,
     "wof:name": "DL2490 (SFO-SEA)",
     "wof:parent_id": 1159157661,
     "wof:placetype": "event",

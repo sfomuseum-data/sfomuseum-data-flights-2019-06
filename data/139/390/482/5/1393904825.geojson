@@ -32,17 +32,17 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [
-      1159396121, 
+      85688637, 
       1159157271, 
       1159396181, 
+      1393904825, 
+      85922583, 
+      102527513, 
+      102191575, 
       85633793, 
       102087579, 
-      102191575, 
-      1393904825, 
-      102527513, 
       1159157833, 
-      85922583, 
-      85688637
+      1159396121
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -70,7 +70,7 @@
     ],
     "wof:id": 1393904825,
     "wof:involves": [102527513, 102530741, 1159283813, 1159157833],
-    "wof:lastmodified": 1560960594,
+    "wof:lastmodified": 1560984803,
     "wof:name": "AS1351 (BOS-SFO)",
     "wof:parent_id": 1159157833,
     "wof:placetype": "event",

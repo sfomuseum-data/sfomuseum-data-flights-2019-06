@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": 1393905115,
   "properties": {
-    "edtf:cessation": "2019-06-19T00:09:00Z",
+    "edtf:cessation": "2019-06-19T00:09:08Z",
     "edtf:inception": "2019-06-18T23:15:00Z",
     "flysfo:airline": "DL",
     "flysfo:date": "2019-06-18",
@@ -34,22 +34,22 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [
-      85633793, 
+      1159157271, 
       102527513, 
-      102191575, 
       1393905115, 
-      85922583, 
       85688637, 
-      1159157323, 
-      1159157857, 
       1159157317, 
-      102087579, 
-      1159157271
+      85922583, 
+      1159157857, 
+      1159157323, 
+      102191575, 
+      85633793, 
+      102087579
     ],
     "wof:breaches": [],
     "wof:concordances": {
       "swim:flight_ref": "104555398",
-      "swim:gufi": "KL77460301"
+      "swim:gufi": ""
     },
     "wof:country": "US",
     "wof:created": 1560960186,
@@ -72,7 +72,7 @@
     ],
     "wof:id": 1393905115,
     "wof:involves": [102527513, 102533795, 1159284261, 1159157857, 1159292193],
-    "wof:lastmodified": 1560960594,
+    "wof:lastmodified": 1560984804,
     "wof:name": "DL2757 (LAX-SFO)",
     "wof:parent_id": 1159157857,
     "wof:placetype": "event",

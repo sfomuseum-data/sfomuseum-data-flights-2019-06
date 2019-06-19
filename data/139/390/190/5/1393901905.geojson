@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": 1393901905,
   "properties": {
-    "edtf:cessation": "2019-06-19T00:15:08Z",
+    "edtf:cessation": "2019-06-19T00:16:24Z",
     "edtf:inception": "2019-06-18T20:59:00Z",
     "flysfo:airline": "UA",
     "flysfo:date": "2019-06-18",
@@ -33,23 +33,24 @@
     "sfomuseum:flight_number": ["UA1243", "UAL1243"],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": ["swim-route"],
     "wof:belongsto": [
-      1159157775, 
-      1159157333, 
-      1159157271, 
-      1159157337, 
-      102527513, 
-      85633793, 
-      102087579, 
-      1393901905, 
-      85688637, 
       85922583, 
-      102191575
+      85688637, 
+      1159157775, 
+      102527513, 
+      102087579, 
+      1159157337, 
+      102191575, 
+      1159157333, 
+      85633793, 
+      1393901905, 
+      1159157271
     ],
     "wof:breaches": [],
     "wof:concordances": {
       "swim:flight_ref": "104547107",
-      "swim:gufi": "KL82626300"
+      "swim:gufi": ""
     },
     "wof:country": "US",
     "wof:created": 1560960149,
@@ -72,7 +73,7 @@
     ],
     "wof:id": 1393901905,
     "wof:involves": [102527513, 102536481, 1159285413, 1159157775, 1159289871],
-    "wof:lastmodified": 1560960592,
+    "wof:lastmodified": 1560984796,
     "wof:name": "UA1243 (PVR-SFO)",
     "wof:parent_id": 1159157775,
     "wof:placetype": "event",

@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": 1393904399,
   "properties": {
-    "edtf:cessation": "2019-06-19T03:07:00Z",
+    "edtf:cessation": "2019-06-19T03:02:21Z",
     "edtf:inception": "2019-06-18T23:11:00Z",
     "flysfo:airline": "UA",
     "flysfo:date": "2019-06-18",
@@ -34,22 +34,22 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [
-      102087579, 
-      85922583, 
-      1159157307, 
-      102527513, 
-      1159157723, 
-      1159396301, 
-      1393904399, 
-      85688637, 
-      102191575, 
       85633793, 
-      1159157271
+      1159157307, 
+      1159157271, 
+      102191575, 
+      102527513, 
+      102087579, 
+      1393904399, 
+      85922583, 
+      85688637, 
+      1159157723, 
+      1159396301
     ],
     "wof:breaches": [],
     "wof:concordances": {
       "swim:flight_ref": "104557552",
-      "swim:gufi": "KS04574400"
+      "swim:gufi": "KS78016300"
     },
     "wof:country": "US",
     "wof:created": 1560960178,
@@ -72,7 +72,7 @@
     ],
     "wof:id": 1393904399,
     "wof:involves": [102527513, 102531979, 1159285413, 1159157723, 1159289871],
-    "wof:lastmodified": 1560960594,
+    "wof:lastmodified": 1560984802,
     "wof:name": "UA1197 (ANC-SFO)",
     "wof:parent_id": 1159157723,
     "wof:placetype": "event",

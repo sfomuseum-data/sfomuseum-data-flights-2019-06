@@ -2,8 +2,8 @@
   "type": "Feature",
   "id": 1393903137,
   "properties": {
-    "edtf:cessation": "2019-06-19T03:32:00Z",
-    "edtf:inception": "2019-06-18T23:33:00Z",
+    "edtf:cessation": "2019-06-19T03:11:00Z",
+    "edtf:inception": "2019-06-18T23:15:00Z",
     "flysfo:airline": "AA",
     "flysfo:date": "2019-06-18",
     "flysfo:event": "arrival",
@@ -34,17 +34,17 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
       1159157271, 
-      1159157795, 
-      102527513, 
       1159396181, 
-      102087579, 
+      1159396121, 
+      102527513, 
+      85633793, 
+      102191575, 
       1393903137, 
       85922583, 
+      102087579, 
       85688637, 
-      1159396121
+      1159157795
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -72,7 +72,7 @@
     ],
     "wof:id": 1393903137,
     "wof:involves": [102527513, 102533631, 1159283849, 1159157795, 1159289871],
-    "wof:lastmodified": 1560960593,
+    "wof:lastmodified": 1560984799,
     "wof:name": "AA2798 (ORD-SFO)",
     "wof:parent_id": 1159157795,
     "wof:placetype": "event",

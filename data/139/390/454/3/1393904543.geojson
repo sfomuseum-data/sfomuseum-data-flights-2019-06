@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": 1393904543,
   "properties": {
-    "edtf:cessation": "2019-06-19T00:33:48Z",
+    "edtf:cessation": "2019-06-19T00:37:00Z",
     "edtf:inception": "2019-06-18T23:05:00Z",
     "flysfo:airline": "DL",
     "flysfo:date": "2019-06-18",
@@ -33,23 +33,24 @@
     "sfomuseum:flight_number": ["DL2787", "DAL2787"],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "swim:tail_number": "N717JL",
     "wof:belongsto": [
-      1159157323, 
-      1393904543, 
-      1159157743, 
-      1159157271, 
-      85633793, 
       102191575, 
-      85688637, 
-      1159157317, 
-      85922583, 
       102087579, 
-      102527513
+      1159157743, 
+      1159157323, 
+      85688637, 
+      1159157271, 
+      85922583, 
+      1159157317, 
+      102527513, 
+      85633793, 
+      1393904543
     ],
     "wof:breaches": [],
     "wof:concordances": {
       "swim:flight_ref": "104557973",
-      "swim:gufi": "KS79140300"
+      "swim:gufi": ""
     },
     "wof:country": "US",
     "wof:created": 1560960179,
@@ -72,7 +73,7 @@
     ],
     "wof:id": 1393904543,
     "wof:involves": [102527513, 102533269, 1159284261, 1159157743, 1159292193],
-    "wof:lastmodified": 1560960594,
+    "wof:lastmodified": 1560984803,
     "wof:name": "DL2787 (SEA-SFO)",
     "wof:parent_id": 1159157743,
     "wof:placetype": "event",

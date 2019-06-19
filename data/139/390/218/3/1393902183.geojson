@@ -34,17 +34,17 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [
-      85688637, 
-      85922583, 
       1159396267, 
-      102191575, 
+      85922583, 
+      85688637, 
+      1159157765, 
       1159157271, 
       85633793, 
       1159157307, 
       102527513, 
-      1159157765, 
+      1393902183, 
       102087579, 
-      1393902183
+      102191575
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -72,7 +72,7 @@
     ],
     "wof:id": 1393902183,
     "wof:involves": [102527513, 102554947, 1159285413, 1159157765, 1159292085],
-    "wof:lastmodified": 1560960592,
+    "wof:lastmodified": 1560984797,
     "wof:name": "UA2339 (YYC-SFO)",
     "wof:parent_id": 1159157765,
     "wof:placetype": "event",

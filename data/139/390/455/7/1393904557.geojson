@@ -32,17 +32,17 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [
-      85688637, 
-      85922583, 
-      1393904557, 
       102527513, 
+      1159396181, 
       102191575, 
+      85688637, 
+      1159396121, 
       102087579, 
       1159157831, 
-      1159157271, 
-      1159396181, 
       85633793, 
-      1159396121
+      1159157271, 
+      1393904557, 
+      85922583
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -70,7 +70,7 @@
     ],
     "wof:id": 1393904557,
     "wof:involves": [102527513, 102532929, 1159283813, 1159157831],
-    "wof:lastmodified": 1560960594,
+    "wof:lastmodified": 1560984803,
     "wof:name": "AS814 (OGG-SFO)",
     "wof:parent_id": 1159157831,
     "wof:placetype": "event",

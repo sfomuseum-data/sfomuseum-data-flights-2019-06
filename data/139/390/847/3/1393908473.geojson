@@ -4,7 +4,7 @@
   "properties": {
     "date:inception_lower": "2019-06-18",
     "date:inception_upper": "2019-06-18",
-    "edtf:cessation": "2019-06-19T04:17:38Z",
+    "edtf:cessation": "2019-06-19T04:14:15Z",
     "edtf:inception": "2019-06-18T22:53:00Z",
     "flysfo:airline": "B6",
     "flysfo:date": "2019-06-18",
@@ -37,17 +37,17 @@
     "src:geom": "flysfo",
     "swim:tail_number": "N978JB",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      85688637, 
       1159157339, 
-      1159157271, 
-      102087579, 
+      102191575, 
+      1159157333, 
       1393908473, 
       85922583, 
-      1159157609, 
-      1159157333, 
-      102527513
+      1159157271, 
+      102527513, 
+      85688637, 
+      85633793, 
+      102087579, 
+      1159157609
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -75,7 +75,7 @@
     ],
     "wof:id": 1393908473,
     "wof:involves": [102534365, 102527513, 1159284583, 1159157609, 1159289411],
-    "wof:lastmodified": 1560960599,
+    "wof:lastmodified": 1560984813,
     "wof:name": "B6516 (SFO-JFK)",
     "wof:parent_id": 1159157609,
     "wof:placetype": "event",

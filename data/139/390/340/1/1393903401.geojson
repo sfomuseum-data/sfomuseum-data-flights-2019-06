@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": 1393903401,
   "properties": {
-    "edtf:cessation": "2019-06-19T05:10:42Z",
+    "edtf:cessation": "2019-06-19T05:06:13Z",
     "edtf:inception": "2019-06-18T23:05:00Z",
     "flysfo:airline": "B6",
     "flysfo:date": "2019-06-18",
@@ -35,22 +35,22 @@
     "src:geom": "flysfo",
     "swim:tail_number": "N929JB",
     "wof:belongsto": [
-      1159157333, 
-      102527513, 
-      1159157823, 
-      85922583, 
       102087579, 
-      1393903401, 
-      1159157339, 
-      85633793, 
       85688637, 
+      102527513, 
+      1159157339, 
+      102191575, 
+      85922583, 
       1159157271, 
-      102191575
+      85633793, 
+      1393903401, 
+      1159157823, 
+      1159157333
     ],
     "wof:breaches": [],
     "wof:concordances": {
       "swim:flight_ref": "104555369",
-      "swim:gufi": "KB73055301"
+      "swim:gufi": ""
     },
     "wof:country": "US",
     "wof:created": 1560960167,
@@ -73,7 +73,7 @@
     ],
     "wof:id": 1393903401,
     "wof:involves": [102527513, 102530741, 1159284583, 1159157823, 1159289411],
-    "wof:lastmodified": 1560960598,
+    "wof:lastmodified": 1560984800,
     "wof:name": "B6833 (BOS-SFO)",
     "wof:parent_id": 1159157823,
     "wof:placetype": "event",

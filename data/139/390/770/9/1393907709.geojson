@@ -36,17 +36,17 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [
-      1159157271, 
-      1159157323, 
       1393907709, 
       85922583, 
       1159157317, 
-      102527513, 
       102087579, 
+      1159157271, 
+      102527513, 
       102191575, 
+      1159157707, 
+      1159157323, 
       85633793, 
-      85688637, 
-      1159157707
+      85688637
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -74,7 +74,7 @@
     ],
     "wof:id": 1393907709,
     "wof:involves": [102528541, 102527513, 1159283849, 1159157707, 1159289871],
-    "wof:lastmodified": 1560960596,
+    "wof:lastmodified": 1560984811,
     "wof:name": "AA440 (SFO-DFW)",
     "wof:parent_id": 1159157707,
     "wof:placetype": "event",

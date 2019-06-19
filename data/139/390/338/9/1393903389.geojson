@@ -32,17 +32,17 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [
-      102191575, 
       85922583, 
-      1393903389, 
-      85688637, 
       85633793, 
-      1159157627, 
+      1393903389, 
       1159157339, 
+      1159157333, 
+      1159157271, 
+      102191575, 
+      1159157627, 
       102527513, 
       102087579, 
-      1159157333, 
-      1159157271
+      85688637
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -70,7 +70,7 @@
     ],
     "wof:id": 1393903389,
     "wof:involves": [102527513, 102553219, 1159285015, 1159157627],
-    "wof:lastmodified": 1560960593,
+    "wof:lastmodified": 1560984800,
     "wof:name": "PR104 (MNL-SFO)",
     "wof:parent_id": 1159157627,
     "wof:placetype": "event",

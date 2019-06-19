@@ -36,17 +36,17 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [
-      85922583, 
-      1159157307, 
       1159157271, 
-      102527513, 
       1159396301, 
+      1393908763, 
       102191575, 
       85633793, 
+      85922583, 
+      85688637, 
+      1159157307, 
       102087579, 
       1159157697, 
-      1393908763, 
-      85688637
+      102527513
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -74,7 +74,7 @@
     ],
     "wof:id": 1393908763,
     "wof:involves": [102536481, 102527513, 1159285413, 1159157697, 1159289871],
-    "wof:lastmodified": 1560960597,
+    "wof:lastmodified": 1560984813,
     "wof:name": "UA1212 (SFO-PVR)",
     "wof:parent_id": 1159157697,
     "wof:placetype": "event",

@@ -32,17 +32,17 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [
-      85922583, 
+      102527513, 
+      1159396217, 
+      102191575, 
       1159157317, 
       1393901461, 
-      102527513, 
-      102191575, 
-      1159396217, 
       85633793, 
       102087579, 
+      85922583, 
+      1159157271, 
       85688637, 
-      1159157715, 
-      1159157271
+      1159157715
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -70,7 +70,7 @@
     ],
     "wof:id": 1393901461,
     "wof:involves": [102527513, 102533795, 1159285591, 1159157715],
-    "wof:lastmodified": 1560960598,
+    "wof:lastmodified": 1560984795,
     "wof:name": "WN2359 (LAX-SFO)",
     "wof:parent_id": 1159157715,
     "wof:placetype": "event",

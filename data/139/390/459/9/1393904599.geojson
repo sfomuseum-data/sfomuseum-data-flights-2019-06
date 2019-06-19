@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": 1393904599,
   "properties": {
-    "edtf:cessation": "2019-06-19T00:03:05Z",
+    "edtf:cessation": "2019-06-19T00:05:33Z",
     "edtf:inception": "2019-06-18T23:01:00Z",
     "flysfo:airline": "UA",
     "flysfo:date": "2019-06-18",
@@ -33,23 +33,24 @@
     "sfomuseum:flight_number": ["UA1800", "UAL1800"],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "swim:tail_number": "N14240",
     "wof:belongsto": [
-      102527513, 
-      85922583, 
-      85688637, 
-      1393904599, 
-      1159157771, 
       1159157307, 
-      102191575, 
+      1159157271, 
       1159396267, 
+      102191575, 
+      102527513, 
       85633793, 
-      102087579, 
-      1159157271
+      1393904599, 
+      85688637, 
+      85922583, 
+      1159157771, 
+      102087579
     ],
     "wof:breaches": [],
     "wof:concordances": {
       "swim:flight_ref": "104558101",
-      "swim:gufi": "KL71208300"
+      "swim:gufi": ""
     },
     "wof:country": "US",
     "wof:created": 1560960180,
@@ -72,7 +73,7 @@
     ],
     "wof:id": 1393904599,
     "wof:involves": [102527513, 102527209, 1159285413, 1159157771, 1159289871],
-    "wof:lastmodified": 1560960594,
+    "wof:lastmodified": 1560984803,
     "wof:name": "UA1800 (LAS-SFO)",
     "wof:parent_id": 1159157771,
     "wof:placetype": "event",
